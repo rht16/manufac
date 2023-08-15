@@ -1,5 +1,9 @@
 # Getting Started with Manufac assignment
 
+# Used Tech stacks and libraries
+1. ReactJs
+2. TypeScript
+3. react-router-dom
 # Lets clone the project using this link
 (https://github.com/rht16/manufac)
 
