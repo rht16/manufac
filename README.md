@@ -4,6 +4,10 @@
 1. ReactJs
 2. TypeScript
 3. react-router-dom
+
+### Prerequisites
+- Node.js and yarn should be installed.
+
 # Lets clone the project using this link
 (https://github.com/rht16/manufac)
 
